@@ -1,4 +1,5 @@
-#działa tylko jeśli brakuje tylko jednej pomiędzy, żeby działało tak że może być więcej braków pomiedzy trzeba by new_list wygenerowac miedzy min a max wartościa z listy
+#działa tylko jeśli brakuje tylko jednej pomiędzy, żeby działało tak że może być więcej braków pomiedzy trzeba by 
+#new_list wygenerowac miedzy min a max wartościa z listy
 
 def find_the_smallest_missing_empty_index (unsorted_list):
     min_in_unsorted_list=min(unsorted_list)
